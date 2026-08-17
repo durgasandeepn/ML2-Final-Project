@@ -1,0 +1,8 @@
+This project is written in "Python", and I used "Visual Studio Code" as the development environment.
+
+The project contains the following files:
+
+QL_EightDir.py – Contains the implementation where the agent can move in eight directions.
+QL_FourDir.py – Contains the implementation where the agent is restricted to four directional movements.
+TestFailed.py – Contains the code for generating and handling dynamic obstacles.
+
